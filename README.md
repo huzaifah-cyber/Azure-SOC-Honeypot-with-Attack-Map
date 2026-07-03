@@ -303,7 +303,7 @@ WindowsEvents
 
 ## Build and Analyze the Attack Map
 
-A Microsoft Sentinel Workbook was created to visualize failed login attempts on an interactive world map. After leaving the honeypot online, Microsoft Sentinel recorded thousands of failed RDP login attempts originating from multiple countries. The highest number of attacks originated from **Japan**, followed by several other countries across North America, Europe, and Asia.
+A Microsoft Sentinel Workbook was created to visualize failed login attempts on an interactive world map. After leaving the honeypot online, Microsoft Sentinel recorded more than a thousand failed RDP login attempts originating from multiple countries. The highest number of attacks originated from **Japan**, followed by several other countries across North America, Europe, and Asia.
 
 <img src="assets/image 21.png" width="900">
 
