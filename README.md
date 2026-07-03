@@ -6,7 +6,7 @@
 
 ## System Architecture
 
-<img src="assets/image 1.png" width="900">
+<img src="assets/image 1.png" width="1400">
 
 *Figure 1. High-level architecture of the Azure SOC Honeypot environment showing the Windows virtual machine, centralized log collection through Azure Monitor Agent, Microsoft Sentinel SIEM, GeoIP enrichment, attack visualization, and post-deployment cloud security hardening.*
 
