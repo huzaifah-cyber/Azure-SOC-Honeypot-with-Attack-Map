@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=700&color=FF0000&background=000000FF&center=true&vCenter=true&width=1100&height=100&lines=AZURE+SOC+HONEYPOT;ATTACK+DETECTED;SENTINEL+ONLINE" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=700&color=FF0000&background=000000FF&center=true&vCenter=true&width=1100&height=100&lines=AZURE+SOC+HONEYPOT;ATTACK+DETECTED;SENTINEL+ONLINE;&repeat=false" alt="Typing SVG">
 
 > A cloud-based Security Operations Center (SOC) lab built in Microsoft Azure that demonstrates how quickly internet-facing systems become targets, how to investigate attacks using Microsoft Sentinel, and how to secure cloud infrastructure using Azure security best practices.
 
