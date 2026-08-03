@@ -27,37 +27,6 @@ Internet-facing systems are continuously targeted by automated scanners and thre
 By combining centralized logging, geographic enrichment, and cloud security hardening, the project showcases both the offensive reality of internet exposure and the defensive practices used to secure Azure workloads.
 
 ---
-<br>
-<details>
-<summary><strong>📋 Project Summary (Quick Read) — Click to Expand</strong><br></summary>
-<br>
-
-This project demonstrates the complete lifecycle of deploying, monitoring, investigating, and securing an internet-facing Windows 11 honeypot using Microsoft Azure.
-
-### Key Features
-
-- Deployed a Windows 11 virtual machine as an internet-facing honeypot
-- Configured an Azure Virtual Network and Network Security Group (NSG)
-- Created an unrestricted inbound NSG rule to intentionally expose the VM
-- Disabled Windows Defender Firewall to maximize attack visibility
-- Generated failed RDP login attempts to simulate brute-force attacks
-- Investigated Windows Security Events using Event Viewer
-- Created a centralized Log Analytics Workspace for security log collection
-- Connected Microsoft Sentinel as the cloud-native SIEM platform
-- Configured Azure Monitor Agent (AMA) and Data Collection Rules (DCR)
-- Queried Windows Security Events using Kusto Query Language (KQL)
-- Imported a GeoIP watchlist to enrich attacker IP addresses with geographic data
-- Built an interactive Microsoft Sentinel  Workbook
-- Validated attacker IP reputation using VirusTotal
-- Hardened the environment by:
-  - Re-enabling Windows Defender Firewall
-  - Restricting inbound traffic with Network Security Groups
-  - Implementing Azure Role-Based Access Control (RBAC)
-  - Enabling Microsoft Defender for Cloud
-
-</details>
-
-**[Click to skip to Attack Map](https://github.com/huzaifah-cyber/Azure-SOC-Honeypot-with-Attack-Map#build-and-analyze-the-attack-map)**
 
 # Technologies Used
 
